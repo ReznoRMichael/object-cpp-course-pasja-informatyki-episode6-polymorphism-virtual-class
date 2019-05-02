@@ -1,4 +1,4 @@
-# Learning Object C++ - Polymorphism, Virtual Class
+# Learning Object C++ - Polymorphism, Virtual Functions
 > Training course - Pasja Informatyki, Object C++ course, episode 6 ( [Link](https://www.youtube.com/watch?v=9hGPe6BnTY4) )
 
 ## General info
